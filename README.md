@@ -14,7 +14,7 @@
   <p align="center"><em>Motion</em>, <em>Simulations</em>, <em>Technology</em> and <em>Coding</em>, (in <em>other words</em>, <strong>everything</strong> that <strong>moves</strong> and <strong>looks</strong> <em>cool</em>).</p>
     <p align="center">In <em>this</em> <strong>GitHub</strong> account <strong>you'll</strong> find <em>pieces</em> of that <strong>passion</strong>.</p>
         <p align="center"><br></p>
-	
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My nebulous stacks...
 
 ```javascript
@@ -43,6 +43,4 @@ const luzaks = {
 
 </div>
 <p align="center"> I'll <strong>love</strong> to <em>hear</em> from <strong>you</strong>, if you <em>want</em> to <em>say</em> <strong>hi</strong>, <em>I'll</em> be <em>happy</em> to <em>meet</em> <strong>you more</strong>.</p>
-<p align="center">Let's <em>code</em> <strong>together</strong></p>
-<p align="center">(ﾉ◕ヮ◕)ﾉ*･ﾟ✧</p>
-<p align="center"><img src="https://media.giphy.com/media/l378yjDKofRszKaAw/source.gif" width="100"></p>
+<p align="center">Let's <em>code</em> <strong>together</strong>!!</p>
