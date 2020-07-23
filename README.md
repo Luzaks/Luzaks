@@ -30,7 +30,7 @@ const luzaks = {
                         speaker: "TechnovationGirls",
                         mentor: "Microverse", "TechnovationGirls"
                       },
- challenge: "I am on the road to become an unicorn in the programming world, I want to master the front end and back end technologies.",
+ challenge: "Becoming a progamming unicorn, I want to master the front end and back end technologies.",
  future: "You'll see this Luzaks object become bigger!!!"
 }
 ```
