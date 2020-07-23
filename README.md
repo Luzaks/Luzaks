@@ -15,7 +15,7 @@
     <p align="center">In <em>this</em> <strong>GitHub</strong> account <strong>you'll</strong> find <em>pieces</em> of that <strong>passion</strong>.</p>
         <p align="center"><br></p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My nebulous stacks...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My neutron stacks...
 
 ```javascript
 const luzaks = {
