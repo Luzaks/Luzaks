@@ -22,7 +22,7 @@ const luzaks = {
   pronouns: "she" | "her" | "comet girl",
   code: [C, C++, Ruby, Javascript, HTML5, CSS3],
   tools: [React, Redux, RoR, Styled-Components, Babel, Botstrap, Phaser3, Middleman, SCSS/SASS],
-  databases: [PostgreSQL, MySQL, MondoDB, GraphQL],
+  databases: [PostgreSQL, MySQL, MongoDB, GraphQL],
   tests: [Rspec, Capybara, Jest, Mocha],
   architecture: ["client-server", "MVC", "design system pattern"],
   skills: ["problem-solving", "maths", "algorithms", "data-structures", "applied-physics", "computational-physics"],
