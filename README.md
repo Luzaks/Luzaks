@@ -25,7 +25,7 @@ const luzaks = {
   databases: [PostgreSQL, MySQL, MondoDB, GraphQL],
   tests: [Rspec, Capybara, Jest, Mocha],
   architecture: ["client-server", "MVC", "design system pattern"],
-  skills, ["problem-solving", "maths", "algorithms", "data-structures", "applied-physics", "computational-physics"],
+  skills: ["problem-solving", "maths", "algorithms", "data-structures", "applied-physics", "computational-physics"],
   techCommunities: {
                         speaker: "TechnovationGirls",
                         mentor: "Microverse", "TechnovationGirls"
