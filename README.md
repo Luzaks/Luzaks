@@ -21,10 +21,10 @@
 const luzaks = {
   pronouns: "she" | "her" | "comet girl",
   code: [C, C++, Ruby, Javascript, HTML5, CSS3],
-  tools: [React, Redux, RoR, Styled-Components, Babel, Botstrap, Phaser3, Middleman, SCSS/SASS],
+  tools: [React, Redux, React-Native, RoR, Styled-Components, Babel, Botstrap, Phaser3, Middleman, SCSS/SASS],
   databases: [PostgreSQL, MySQL, MongoDB, GraphQL],
   tests: [Rspec, Capybara, Jest, Mocha],
-  architecture: ["client-server", "MVC", "design system pattern"],
+  architecture: ["client-server", "MVC", "design system pattern", "atomic-design"],
   skills: ["problem-solving", "maths", "algorithms", "data-structures", "applied-physics", "computational-physics"],
   techCommunities: {
                         speaker: "TechnovationGirls",
