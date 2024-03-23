@@ -1,9 +1,4 @@
 <h1 align="center">:star2: Luzaks :star2:</h1>
-
-<p align="center">
-	<a href="https://github.com/Luzaks"><img src="https://img.shields.io/github/followers/Luzaks.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/rangel-guadalupe/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
  
   <p align="center"> <img src="https://media.giphy.com/media/mEKTbwnASXa8APeVUK/source.gif" width="100"></p>
   
